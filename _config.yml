@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Lucas F. Diniz"
 title_separator          : "-"
 name                     : &name "Lucas F. Diniz"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "lcfdiniz"
   orcid            : "https://orcid.org/0009-0007-3698-0927"
   pinterest        :
   soundcloud       :
