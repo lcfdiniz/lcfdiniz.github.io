@@ -9,25 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Especialização em Ciência de Dados e Analytics, Pontifícia Universidade Católica do Rio de Janeiro, 2023
+* Mestrado em Engenharia Elétrica, Universidade Federal Juiz de Fora, 2023
+* Bacharelado em Engenharia Elétrica, Universidade Federal Juiz de Fora, 2020
 
-Work experience
+Experiência Profissional
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Cientista de Dados @ Robotictech (2022 - Atual)
+  * Responsável pela análise de dados e desenvolvimento de modelos preditivos em uma startup da área de tecnologia. Junto com uma equipe de 5 pessoas, realizou a entrega do primeiro produto da empresa, voltado para o setor de energia. Veja mais sobre essa entrega [aqui](https://www.youtube.com/watch?v=g70jpJTKWJQ)
+  * Atividades:
+    * Desenvolvimento de um sistema para recenseamento do parque de iluminação pública com técnicas de inteligência computacional, tornando o processo ao menos 50 vezes mais rápido
+    * Desenvolvimento de modelos de Deep Learning para classificação e detecção de objetos em imagens
+    * Desenvolvimento de modelos de Machine Learning para solução de problemas de classificação e clusterização
+    * Pesquisa de técnicas de visão computacional no estado-da-arte
   
-Skills
+Habilidades
 ======
 * Skill 1
 * Skill 2
@@ -41,19 +39,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
