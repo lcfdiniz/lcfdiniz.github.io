@@ -14,9 +14,6 @@ redirect_from:
 
 Sou um **Cientista de Dados** com experiência em projetos complexos em conjunto com grandes empresas, tanto em âmbito acadêmico como profissional. Apaixonado por resolver problemas e oferecer **soluções orientadas a dados**, que atendam às necessidades dos clientes. Possuo experiência prática com técnicas de visão computacional, aprendizado de máquina e desenvolvimento de software para sistemas inteligentes. Mestre em Engenharia Elétrica pela UFJF e Especialista em Ciência de Dados e Analytics pela PUC-Rio.
 
-Entre em contato!
-======
-
 [![linkedin](/images/linkedin.png)][1]
 [![medium](/images/medium.png)][2]
 [![outlook](/images/outlook.png)][3]
