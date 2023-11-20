@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Versão em PDF disponível [aqui](https://lcfdiniz.github.io/files/cv-lucas-f-diniz.pdf).
+
 Educação
 ======
 * Especialização em Ciência de Dados e Analytics, Pontifícia Universidade Católica do Rio de Janeiro, 2023
@@ -27,14 +29,38 @@ Experiência Profissional
   
 Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Linguagens de programação**
+  * Python
+  * SQL
+  * C/C++
+  * Matlab
+* **Bibliotecas e Frameworks**
+  * Pandas, Numpy, Scipy
+  * Matplotlib, Seaborn
+  * TensorFlow, Keras, PyTorch
+* **Banco de Dados e Big Data**
+  * Hadoop, Spark, Hive
+  * SGBDs (PostgreSQL, MySQL, MongoDB, Neo4j)
+* **Ferramentas de desenvolvimento/infraestrutura**
+  * Git
+  * Linux
+  * Docker
+  * Computação em nuvem (AWS, GCP)
+* **Visão Computacional**
+  * OpenCV
+  * YOLO
+  * U-Net
+  * Albumentations
+* **Inglês** (Certificação B2 First, Cambridge University)
 
-Publications
+Cursos livres
+======
+* **Deep Learning Specialization**, DeepLearning.AI
+* **Data Science & Machine Learning**, Tera
+* **Machine Learning**, Stanford University
+* **SQL for Data Science**, University of California, Davis
+
+Publicações
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
