@@ -1,6 +1,6 @@
 ---
 title: "CARculadora"
-excerpt: "Projeto para calcular preços de veículos usados e seminovos a partir de dados e aprendizado de máquina<br/><img src='/images/500x300.png'>"
+excerpt: "Projeto de regressão para predição de preços de veículos<br/><img src='/images/carculadora.jpg'>"
 collection: portfolio
 ---
 
