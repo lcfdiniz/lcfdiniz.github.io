@@ -1,6 +1,6 @@
 ---
 title: "Análise de Vendas de um E-Commerce"
-excerpt: "Projeto de um ambiente de BI em nuvem<br/><img src='/images/500x300.png'>"
+excerpt: "Projeto de um ambiente de BI em nuvem<br/><img src='/images/ecommerce-sales-analysis.jpg'>"
 collection: portfolio
 ---
 
