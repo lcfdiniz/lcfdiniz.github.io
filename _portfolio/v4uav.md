@@ -1,6 +1,6 @@
 ---
 title: "V4UAV"
-excerpt: "Projeto para controle de veículo aéreo não-tripulado por meio de técnicas de visão computacional<br/><img src='/images/500x300.png'>"
+excerpt: "Projeto para controle de VANT com uso de visão computacional<br/><img src='/images/v4uav.jpg'>"
 collection: portfolio
 ---
 
