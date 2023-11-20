@@ -1,6 +1,6 @@
 ---
 title: "Análise de Dados do Mercado Imobiliário"
-excerpt: "Projeto de análise e pré-processamento de dados<br/><img src='/images/500x300.png'>"
+excerpt: "Projeto de análise e pré-processamento de dados<br/><img src='/images/real-estate-market.jpg'>"
 collection: portfolio
 ---
 
