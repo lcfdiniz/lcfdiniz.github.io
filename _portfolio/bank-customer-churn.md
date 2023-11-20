@@ -1,6 +1,6 @@
 ---
 title: "Predição de Churn para Clientes de Banco"
-excerpt: "Projeto de classificação para previsão de churns<br/><img src='/images/bank-customer-churn.jpg'>"
+excerpt: "Projeto de classificação para predição de churns<br/><img src='/images/bank-customer-churn.jpg'>"
 collection: portfolio
 ---
 
