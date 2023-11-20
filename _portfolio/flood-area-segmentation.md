@@ -1,6 +1,6 @@
 ---
 title: "Segmentação de Área de Inundações"
-excerpt: "Projeto de segmentação semântica de áreas de inundações em imagens<br/><img src='/images/500x300.png'>"
+excerpt: "Projeto de segmentação semântica de áreas de inundações<br/><img src='/images/flood-area-segmentation.jpg'>"
 collection: portfolio
 ---
 
