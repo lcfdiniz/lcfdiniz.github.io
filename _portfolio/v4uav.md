@@ -11,6 +11,7 @@ A aplicação foi desenvolvida como um pacote ROS (Robot Operating System), send
 Como resultados do projeto, foi visto que o sistema é capaz de realizar a tarefa de rastreamento das linhas de transmissão de forma robusta, mesmo quando exposto a mudanças abruptas na orientação das linhas. Também foi verificado que o sistema reduz boa parte do esforço manual necessário para que um operador realize o pouso sobre as linhas de transmissão. Para mais detalhes, você pode acessar minha dissertação de mestrado [aqui](https://drive.google.com/file/d/12A0chRwYH55cX5iv-3A38wMTLE6BZa7J/view).
 
 ![v4uav](/images/v4uav-picture-1.png)
+
 *Resultados dos ensaios de rastreamento realizados*
 
 [Link para o repositório no GitHub](https://github.com/lcfdiniz/v4uav)
