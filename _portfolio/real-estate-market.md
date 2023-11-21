@@ -11,6 +11,7 @@ Nesse trabalho, foi realizada a análise e pré-processamento de dados reais do 
 Como resultados, foi possível verificar que o preço de um imóvel possui uma forte correlação positiva com seu número de quartos, banheiros, vagas de garagem e sobretudo sua área. Também foi visto que os diversos itens adicionais de lazer, infraestrutura e serviços impactam positivamente no preço das residências, com exceção da área de serviço. Por fim, foi possível identificar as regiões com imóveis mais caros e baratos, conforme apresentado na figura abaixo.
 
 ![real-estate-market](/images/real-estate-market-picture-1.png)
+
 *Boxplot com a distribuição dos preços de imóveis por região*
 
 [Link para o repositório no GitHub](https://github.com/lcfdiniz/puc-rio/tree/main/real-estate-market)
