@@ -5,7 +5,6 @@ modified: 2023-11-23
 ---
 
 {% include base_path %}
-{% include toc %}
 
 ## Política de Privacidade
 
