@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Uma lista de todos as postagens e páginas encontrados no site. Para seus robôs, existe uma [versão XML]({{ base_path }}/sitemap.xml) disponível.
+Uma lista de todos as postagens e páginas encontradas no site. Para seus robôs, existe uma [versão XML]({{ base_path }}/sitemap.xml) disponível.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
