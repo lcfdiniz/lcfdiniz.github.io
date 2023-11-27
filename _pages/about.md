@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Olá, meu nome é Lucas F. Diniz! 👋"
-excerpt: "About me"
+excerpt: "Sobre mim"
 author_profile: false
 redirect_from: 
   - /about/
