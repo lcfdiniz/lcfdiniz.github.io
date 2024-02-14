@@ -19,7 +19,9 @@ Educação
 
 Experiência Profissional
 ======
-* **Cientista de Dados @ Robotictech (2022 - Atual)**
+* **Cientista de Dados @ Dataprev (2024 - Atual)**
+  * Responsável pela análise e manipulação de grandes volumes de dados junto ao setor de análise de risco da empresa.
+* **Cientista de Dados @ Robotictech (2022 - 2024)**
   * Responsável pela análise de dados e desenvolvimento de modelos preditivos em uma startup da área de tecnologia. Junto com uma equipe de 5 pessoas, realizou a entrega do primeiro produto da empresa, voltado para o setor de energia. Veja mais sobre essa entrega [aqui](https://www.youtube.com/watch?v=g70jpJTKWJQ).
   * Atividades:
     * Desenvolvimento de um sistema para recenseamento do parque de iluminação pública com técnicas de inteligência computacional, tornando o processo ao menos 50 vezes mais rápido
