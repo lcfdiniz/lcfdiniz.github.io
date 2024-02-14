@@ -13,7 +13,7 @@ redirect_from:
 
 Sou um **Cientista de Dados** com experiência em projetos complexos em conjunto com grandes empresas, tanto em âmbito acadêmico como profissional. Apaixonado por resolver problemas e oferecer **soluções orientadas a dados**, que atendam às necessidades dos clientes.
 
-Possuo experiência prática com desenvolvimento de software para sistemas inteligentes e treinamento de modelos de aprendizado de máquina e aprendizado profundo. Atualmente, atuo como Cientista de Dados na área de **análise de risco** da Dataprev, lidando diretamente com **grandes volumes de dados**.
+Possuo experiência prática com desenvolvimento de software para sistemas inteligentes e treinamento de modelos de aprendizado de máquina e aprendizado profundo. Atualmente, atuo como Cientista de Dados na divisão de **análise de risco** da Dataprev, lidando diretamente com **grandes volumes de dados**.
 
 Mestre em Engenharia Elétrica pela UFJF e Especialista em Ciência de Dados e Analytics pela PUC-Rio.
 
