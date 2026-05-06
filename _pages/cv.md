@@ -19,8 +19,15 @@ Educação
 
 Experiência Profissional
 ======
-* **Cientista de Dados @ Dataprev (2024 - Atual)**
-  * Responsável pela análise e manipulação de grandes volumes de dados junto à divisão de análise de risco da empresa.
+* **Cientista de Dados @ CVM (2025 - Atual)**
+  * Responsável pelo desenvolvimento de soluções de inteligência para suporte às atividades de supervisão e investigação do mercado de capitais, com uso de IA Generativa, RAG, Grafos de Conhecimento e técnicas computacionais avançadas.
+* **Cientista de Dados @ Dataprev (2024 - 2025)**
+  * Responsável pela análise, processamento e extração de conhecimento de grandes volumes de dados, realizando a análise de risco de benefícios sociais para clientes como o Ministério do Trabalho (MTE), Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e o INSS.
+  * Atividades:
+    * Desenvolvimento e implementação de regras e modelos para identificação de solicitações de seguro-desemprego potencialmente irregulares, impedindo o pagamento de benefícios indevidos, com economia estimada em mais de 300 milhões apenas no ano de 2024
+    * Desenvolvimento de painéis de monitoramento para os principais indicadores operacionais e econômicos da análise de risco do seguro-desemprego
+    * Apoio na análise de risco do auxílio financeiro emergencial do Rio Grande do Sul (2024), beneficiando mais de 400 mil trabalhadores
+    * Realização de estudos para diversos órgãos do governo, visando a eficiência do programa do seguro-desemprego
 * **Cientista de Dados @ Robotictech (2022 - 2024)**
   * Responsável pela análise de dados e desenvolvimento de modelos preditivos em uma startup da área de tecnologia. Junto com uma equipe de 5 pessoas, realizou a entrega do primeiro produto da empresa, voltado para o setor de energia. Veja mais sobre essa entrega [aqui](https://www.youtube.com/watch?v=g70jpJTKWJQ).
   * Atividades:
